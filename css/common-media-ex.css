@@ -5,8 +5,27 @@
   .header_pc,
   .sprouts,
   .content2 .cont2-2,
-  .content3 {
+  .content3,
+  .contact img {
     display: none;
+  }
+  .content2 .cont2_in .cont2-1 .info {
+    font-size: 15px;
+  }
+  .content2 .cont2_in .cont2-1 .introduce {
+    font-size: 18px;
+  }
+  .content2 .cont2_in .cont2-1 .introduce .icon {
+    width: 20px;
+  }
+  .footer .f_txt1 .thanks {
+    font-size: 35px;
+  }
+  .footer .f_txt1 .contact {
+    width: 100%;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 2;
   }
 }
 
